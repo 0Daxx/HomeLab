@@ -68,6 +68,24 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 
 
 
+# Linux 
+
+
+## fd command error 
+- ```  
+
+~ fd -t f '*Handy*' 
+[fd error]: regex parse error:
+    *Handy*
+    ^
+error: repetition operator missing expression
+
+Note: You can use the '--fixed-strings' option to search for a literal string instead of a regular expression. Alternatively,
+ you can also use the '--glob' option to match on a glob pattern``` 
+
+-
+
+
 
 
 # Git 
@@ -77,9 +95,15 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 
 
 <![git1](git1) 
+
 - whats wrong , why , and how to fix it 
 
+## task g2 : 
 
+<![git2](git2) 
+
+
+- whats wrong , why , and how to fix it 
 
 
 
