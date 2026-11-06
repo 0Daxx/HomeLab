@@ -54,3 +54,15 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 ![task 6 ](images/task6.png) 
 
 
+
+## Task 7 : How to view markdown code in vim/nvim 
+- 
+## Sub Task 8 : word wrap in nvim 
+- https://dev.to/cbartlett/word-wrapping-in-vim-4oog 
+-  Press i to get in normal mode and then Press : , Type `:` then  ` set word   `
+
+## Task 9 : How to paste images in nvim and it gets added to directory like VS code 
+
+
+## Task 10 : Create Github repo from CLI 
+- `gh repo create web_scrape --public`
