@@ -71,7 +71,7 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 # Linux 
 
 
-## fd command error 
+## Task 1 : fd command error 
 - ```  
 
 ~ fd -t f '*Handy*' 
@@ -83,8 +83,16 @@ error: repetition operator missing expression
 Note: You can use the '--fixed-strings' option to search for a literal string instead of a regular expression. Alternatively,
  you can also use the '--glob' option to match on a glob pattern``` 
 
--
 
+### Bash Script 
+
+1. as a Way to get most recent screenshot be moved to the current project working on to add it into git repo 
+
+2. download folder  clean up script 
+
+3. suppose your system will be smashed in next 5 minutes , write a script to get all the dotfiles and config files to recreate the customise system 
+
+4. 
 
 
 
