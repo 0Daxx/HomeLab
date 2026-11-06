@@ -37,19 +37,20 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 
 - https://opensource.com/article/18/7/how-check-free-disk-space-linux
 
-## ssh into the homelab 
+## Task 5 : ssh into the homelab 
 - Public ip of  current system and home lab 
   - -   `curl ifconfig.me `  
     Why not `hostname -i ` 
     - - 
 - command of ssh to connect 
-  - ssh <user>@ip_address 
-
-- 
+  - - 
 
 
 
+## Task 6  : cd into project directly 
+- `cd $(find ~ <name>  -type d task6.img`
+- Explain the command : 
 
-
+![task 6 ](images/task6.png) 
 
 
