@@ -63,6 +63,23 @@ https://www.geeksforgeeks.org/linux-unix/command-to-check-ip-address-in-linux/
 
 ## Task 9 : How to paste images in nvim and it gets added to directory like VS code 
 
-
 ## Task 10 : Create Github repo from CLI 
 - `gh repo create web_scrape --public`
+
+
+
+
+
+# Git 
+
+
+## task g1 : 
+
+
+<![git1](git1) 
+- whats wrong , why , and how to fix it 
+
+
+
+
+
