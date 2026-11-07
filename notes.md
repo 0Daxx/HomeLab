@@ -114,4 +114,14 @@ Note: You can use the '--fixed-strings' option to search for a literal string in
 - whats wrong , why , and how to fix it 
 
 
+# Python 
+- Also try solving using bash 
+
+
+## Task 1 a file has data 
+- file.md 
+- /projects/task-tracker/projects/github-user-activity/projects/expense-tracker/projects/number-guessing-game/projects/unit-converter/projects/personal-blog/projects/weather-api-wrapper-service/projects/blogging-platform-api/projects/todo-list-api/projects/expense-tracker-api/projects/github-trending-cli/projects/tmdb-cli
+
+- change this into such that list of projects can be easily read , or a function that reads this and returns a list of projects 
+
 
